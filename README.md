@@ -138,8 +138,7 @@ Daily Usage (GB): f(t) = 56.14 \cdot 0.0584 \cdot e^{0.0584t}
 ### Here's what the graph looks like
 It may look linear due to the small data sample, but it is a nonlinear function.
 🧑‍💻🧑‍💻🧑‍💻
-
-
+![graph](https://github.com/myon-bioinformatics/cumlative_usage/blob/main/sample_result_graph.png)
 
 
 
